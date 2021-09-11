@@ -20,6 +20,8 @@ The user can add a book with the name of the book and author. The book will be s
 
 ## Deployment
 
+[Deployment](https://anusontarangkul.github.io/reading-list/)
+
 ## Page Directory
 
 The react app contains components in the components directory. The contexts and reducers have their own directory.
